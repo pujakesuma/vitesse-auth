@@ -1,0 +1,7 @@
+// Vitest Snapshot v1
+
+exports[`Card.vue > should render 1`] = `
+"<div class=\\"rounded-lg lg:rounded-l-lg lg:rounded-r-none shadow-2xl opacity-75 w-full lg:w-3/5\\">
+  <div class=\\"p-4 md:p-12 text-center lg:text-left\\"></div>
+</div>"
+`;
